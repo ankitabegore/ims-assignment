@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+motor
+asyncpg
+redis
+slowapi
+tenacity
+pydantic-settings
+pydantic
+pytest
+httpx
+sse-starlette
